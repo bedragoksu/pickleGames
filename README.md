@@ -48,3 +48,4 @@
   
   -**Diğer Notlar**:
 - Bir sonraki sprint için öncelikli yapılması gereken görevler tartışıldı.
+- GitHub Unity dosyası oluşturuldu.
