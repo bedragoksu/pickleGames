@@ -1,6 +1,5 @@
 # pickleGames
 
-
 ## **Takım İsmi**
 **Pickle Games**
 
