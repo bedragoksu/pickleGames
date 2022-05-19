@@ -30,7 +30,13 @@ namespace DeepOcean.Movements
 
         public void Jump()
         {
-            if (!_characterController.isGrounded) _velocity.y = _jumpSpeed;                                       
+            for(int i = 0; i < 5; i++) { 
+            if (_characterController.isGrounded) _velocity.y = _jumpSpeed;
+
+            _velocity.y += _gravity * Time.deltaTime;
+
+            _characterController.Move(_velocity * Time.deltaTime);
+            }
         }
 
     }
