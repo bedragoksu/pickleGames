@@ -7,9 +7,12 @@ namespace DeepOcean.Movements
     [RequireComponent(typeof(CharacterController))]
     public class Gravity : MonoBehaviour
     {
-        float _gravity = -9.81f;
-        CharacterController _characterController;
+        private float _gravity = -9.81f;
+        private float _jumpSpeed = 5f;
+        
         Vector2 _velocity;
+
+        CharacterController _characterController;
 
         void Awake()
         {
@@ -24,6 +27,12 @@ namespace DeepOcean.Movements
 
             _characterController.Move(_velocity * Time.deltaTime);
         }
+
+        public void Jump()
+        {
+            if (!_characterController.isGrounded) _velocity.y = _jumpSpeed;                                       
+        }
+
     }
 }
 
