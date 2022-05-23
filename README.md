@@ -24,9 +24,18 @@
 - Kullanılabilecek free CC0 lisanslı assetler belirlendi.
 - UI ve karakter tasarımlarına başlanıldı.
 
-- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint1/DailyScrumSprint1.DOCX)
+- **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  <br/>
+ [Sprint 1 Daily Scrum Chats](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint1/DailyScrumSprint1.DOCX) <br/>
+ [Sprint 2 Daily Scrum Chats]()
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 30 Puan
+
+### Backlog Linki
+[Trello Backlog](https://trello.com/b/8pDb5IU6/deep-ocean)
+
+
+## Sprint 1
+
+- **Sprint içinde tamamlanması tahmin edilen puan:** 30 Puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 120 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 30 ile başlaması gerektiğine karar verildi.
 - **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
 
@@ -49,3 +58,30 @@
   -**Diğer Notlar**:
 - Bir sonraki sprint için öncelikli yapılması gereken görevler tartışıldı.
 - GitHub Unity dosyası oluşturuldu.
+
+## Sprint 2
+
+- **Sprint için tamamlanması tahmin edilen puan:** 40 puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 120 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 40 puan olması gerektiğine karar verildi.
+- **Backlog düzeni:** Yapılması planlanan görevler belirlenmiş ve tahmini puanlar toplam 40 puan olmak üzere görevlere dağıtılmıştır. Finaller, etkinlik ve iş gibi sebeplerden ötürü görevlerde ilerleme sağlanmış ancak çoğu tamamlanamamıştır.
+![backlog screenshot]()
+
+- **Ürün Durumu: **
+- Daha fazlası için Sprint2 dosyasını inceleyebilirsiniz.
+- Ekran görüntüleri: <br/>
+
+- Menüler oyun içi grafiklere uygun olarak bütünlük sağlanması için geliştirilecektir.
+![oyun ana menü]() ![ana menü ayar ekranı]() <br/>
+![oyun içi resume menüsü]() ![oyun içi ayar menüsü]() <br/>
+
+
+- **Sprint Retrospective:**
+  - Daily Scrum toplantılarının düzenli yapılmasına dikkat edilmeli.
+  - Projeye hız kazandırılması gerektiği tartışıldı.
+  
+  -**Diğer Notlar**:
+- Bir sonraki sprint için öncelikli yapılması gereken görevler tartışıldı.
+
+
+
+
