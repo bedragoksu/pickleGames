@@ -66,7 +66,7 @@
 - **Backlog düzeni:** Yapılması planlanan görevler belirlenmiş ve tahmini puanlar toplam 40 puan olmak üzere görevlere dağıtılmıştır. Finaller, etkinlik ve iş gibi sebeplerden ötürü görevlerde ilerleme sağlanmış ancak çoğu tamamlanamamıştır.
 ![backlog screenshot]()
 
-- **Ürün Durumu: **
+- **Ürün Durumu:**
 - Daha fazlası için Sprint2 dosyasını inceleyebilirsiniz.
 - Ekran görüntüleri: <br/>
 
