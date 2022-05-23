@@ -26,7 +26,7 @@
 
 - **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  <br/>
  [Sprint 1 Daily Scrum Chats](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint1/DailyScrumSprint1.DOCX) <br/>
- [Sprint 2 Daily Scrum Chats]()
+ [Sprint 2 Daily Scrum Chats](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/DailyScrumSprint2.DOCX) <br/>
 
 
 ### Backlog Linki
@@ -64,15 +64,17 @@
 - **Sprint için tamamlanması tahmin edilen puan:** 40 puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 120 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ikinci sprint'in 40 puan olması gerektiğine karar verildi.
 - **Backlog düzeni:** Yapılması planlanan görevler belirlenmiş ve tahmini puanlar toplam 40 puan olmak üzere görevlere dağıtılmıştır. Finaller, etkinlik ve iş gibi sebeplerden ötürü görevlerde ilerleme sağlanmış ancak çoğu tamamlanamamıştır.
-![backlog screenshot]()
+![backlog screenshot](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/backlogSS.PNG)
 
 - **Ürün Durumu:**
 - Daha fazlası için Sprint2 dosyasını inceleyebilirsiniz.
 - Ekran görüntüleri: <br/>
 
 - Menüler oyun içi grafiklere uygun olarak bütünlük sağlanması için geliştirilecektir.
-![oyun ana menü]() ![ana menü ayar ekranı]() <br/>
-![oyun içi resume menüsü]() ![oyun içi ayar menüsü]() <br/>
+![oyun ana menü](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/Oyun%20Ana%20Men%C3%BC.jpeg) ![ana menü ayar ekranı](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/Ana%20Men%C3%BC%20Ayar%20Ekran%C4%B1.jpeg) <br/>
+![oyun içi resume menüsü](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/Oyun%20%C4%B0%C3%A7i%20Resume%20Men%C3%BCs%C3%BC.jpeg) ![oyun içi ayar menüsü](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/Oyun%20%C4%B0%C3%A7i%20Ayar%20Men%C3%BCs%C3%BC.jpeg)
+![bomb](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/bomb.png) ![heart](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/heart.png)
+![ahtapot](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/octopus.png) ![papağan](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/parrot.png) ![sandık](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/sand%C4%B1k.png)<br/>
 
 
 - **Sprint Retrospective:**
