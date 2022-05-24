@@ -9,8 +9,23 @@ EditorBuildSettings:
     path: Assets/Scenes/AnaMenu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/OyunSahnesi1.unity
+    path: Assets/Scenes/LevelSelection.unity
+    guid: 0e39f1289c533e44a8fe6bf7d0780b0b
+  - enabled: 1
+    path: Assets/Scenes/Level_1.unity
     guid: 433156325dc5a7646a36aaaf9636f497
+  - enabled: 1
+    path: Assets/Scenes/Level_2.unity
+    guid: 4addbb6ceda90ad4daf86ff1bacfc8a9
+  - enabled: 1
+    path: Assets/Scenes/Level_3.unity
+    guid: 7b5a99a534bfa6b4799430871ee0f944
+  - enabled: 1
+    path: Assets/Scenes/Level_4.unity
+    guid: d23cc8cf29ed4174695f0b1f82255cf2
+  - enabled: 1
+    path: Assets/Scenes/Level_5.unity
+    guid: 57d3abb44ac7fdb49b1b7a7cd0170efd
   - enabled: 1
     path: Assets/Scenes/OyunBitti.unity
     guid: df90ca29dc7db744aa6834b39a100d1b
