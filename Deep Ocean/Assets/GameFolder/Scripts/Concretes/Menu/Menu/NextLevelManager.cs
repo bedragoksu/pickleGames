@@ -13,7 +13,7 @@ public class NextLevelManager : MonoBehaviour
     {
         buildIndex = SceneManager.GetActiveScene().buildIndex;
         Text levelText = GameObject.Find("LevelText").GetComponent<Text>();
-        levelText.text = "Level_" + (buildIndex-1).ToString();
+        levelText.text = "Level " + (buildIndex-1).ToString();
     }
 
     public void NextLevel()
