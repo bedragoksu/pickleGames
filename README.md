@@ -17,12 +17,13 @@
 
 ### Ürün Açıklaması
 
-- Gemisini kurtarmaya çalışan bir korsanın 5 bölümlük hikayesini içeren 2 boyutlu, pixel art bir oyun tasarlıyoruz. Kaptan Deep bu macerasında gemisine ulaşmaya çalışırken bir taraftan da hazinesini genişletir. Ve 5 bölümün sonunda onu zorlu bir düşman bekliyor olacaktır.
+- Ana karakterimiz olan Kırgın Bahtiyar bir osmanlı denizcisidir. Ancak uzun yıllar esir düşmüştür Piri reis onu kurtarmıştır.  Piri Reis yaşlanmış artık yollara çıkamamış hale gelmişti. Kırgın Bahtiyar piri reisin en sevdiği askeriydi ve ona bir gün bir harita verir be bu harita karanlık dünyada yer alan bir hazinenin haritasıdır Piri reis ona güvendiğini ve onu alıp gelmesini ister belkide Piri reisin bunu görecek vakti bile kalmamıştır Kırgın Bahtiyar bu özel haritayı alır ve maceraya başlamaya karar verir. Kırgın Bahtiyar'ın 5 bölümlük hikayesini içeren 2 boyutlu, pixel art bir oyun tasarlıyoruz.
 
 ### Ürün Özellikleri
 
 - Kullanılabilecek free CC0 lisanslı assetler belirlendi.
 - UI ve karakter tasarımlarına başlanıldı.
+- 5 bölümlük, pixel art tasarımlara sahip 2 boyutlu bir oyun tasarlandı.
 
 - **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  <br/>
  [Sprint 1 Daily Scrum Chats](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint1/DailyScrumSprint1.DOCX) <br/>
