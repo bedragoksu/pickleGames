@@ -283,6 +283,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: HeavyBandit_3
       objectReference: {fileID: 0}
+    - target: {fileID: 1214300719064610146, guid: c3e3ec216c29f374daba555f871cef65, type: 3}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     - target: {fileID: 1214300719064610158, guid: c3e3ec216c29f374daba555f871cef65, type: 3}
       propertyPath: m_RootOrder
       value: 1
