@@ -6,7 +6,7 @@
 ## Ürün İle İlgili Bilgiler
 
 ### Takım Elemanları
-- İsrafil Berk Güngör: Product Owner
+- İsrafil Güngör: Product Owner
 - Bedra Göksu: Scrum Master
 - Erkan Erten: Team Member/Developer
 - Sude Kars: Team Member/Developer
@@ -86,5 +86,21 @@
 - Bir sonraki sprint için öncelikli yapılması gereken görevler tartışıldı.
 
 
+## Sprint 3
+
+- **Sprint için tamamlanması tahmin edilen puan:** 50 puan
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 120 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 50 puan olması gerektiğine karar verildi.
+- **Backlog düzeni:** Yapılması planlanan görevler belirlenmiş ve tahmini puanlar toplam 50 puan olmak üzere görevlere dağıtılmıştır.
+![backlog screenshot]()
+
+- **Ürün Durumu:**
+- Daha fazlası için Sprint3 dosyasını inceleyebilirsiniz.
+- Ekran görüntüleri: <br/>
 
 
+
+- **Sprint Retrospective:**
+  - 
+  
+  -**Diğer Notlar**:
+- 
