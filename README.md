@@ -6,7 +6,7 @@
 ## Ürün İle İlgili Bilgiler
 
 ### Takım Elemanları
-- İsrafil Güngör: Product Owner
+- İsrafil Güngör: Product Owner (İsrafil Berk Güngör)
 - Bedra Göksu: Scrum Master
 - Erkan Erten: Team Member/Developer
 - Sude Kars: Team Member/Developer
