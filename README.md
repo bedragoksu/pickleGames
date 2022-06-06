@@ -106,4 +106,9 @@
   - Karakter hikayesi belirlendi; ana karakter, düşmanlar ve yan karakter özellikleri, tasarımları belirlendi ve oluşturuldu; UI tasarımı ve level selectionlar yapıldı; ana karaktere ve düşmanlara hareket kazandırıldı.
   
   -**Diğer Notlar**:
-- 
+- [hero nad opponents](https://assetstore.unity.com/packages/2d/characters/hero-nad-opponents-animation-140776)
+- [village props](https://assetstore.unity.com/packages/2d/environments/pixel-art-platformer-village-props-166114)
+- [environment](https://assetstore.unity.com/packages/2d/textures-materials/nature/magic-cliffs-pixel-art-environment-60458)
+- [birds](https://assetstore.unity.com/packages/2d/environments/landscape-tiles-birds-free-93903#publisher) (kullanılmadı)
+- [pirate musics](https://assetstore.unity.com/packages/audio/music/pirate-music-album-050418-118488)
+- [UI](https://assetstore.unity.com/packages/2d/gui/icons/2d-casual-ui-hd-82080#description)
