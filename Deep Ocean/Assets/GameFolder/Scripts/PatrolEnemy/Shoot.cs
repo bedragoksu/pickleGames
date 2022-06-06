@@ -25,6 +25,7 @@ public class Shoot : MonoBehaviour
         }else
         {
             timeBTWShots -= Time.deltaTime;
+            //timeBTWShots -= Time.fixedDeltaTime;
         }
 
         
