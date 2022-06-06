@@ -96,11 +96,14 @@
 - **Ürün Durumu:**
 - Daha fazlası için Sprint3 dosyasını inceleyebilirsiniz.
 - Ekran görüntüleri: <br/>
-
+![gemi](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint3/Gemi.png)
+![kırgın bahtiyar](https://github.com/bedragoksu/pickleGames/blob/main/Deep%20Ocean/Assets/assets%20Berk/ana%20karakter/K%C4%B1rg%C4%B1n%20Bahtiyar.png)
+![kılıç](https://github.com/bedragoksu/pickleGames/blob/main/Deep%20Ocean/Assets/assets%20Berk/ana%20karakter/sword.png)
+![silah](https://github.com/bedragoksu/pickleGames/blob/main/Deep%20Ocean/Assets/assets%20Berk/ana%20karakter/wapon.png)
 
 
 - **Sprint Retrospective:**
-  - 
+  - Karakter hikayesi belirlendi; ana karakter, düşmanlar ve yan karakter özellikleri, tasarımları belirlendi ve oluşturuldu; UI tasarımı ve level selectionlar yapıldı; ana karaktere ve düşmanlara hareket kazandırıldı.
   
   -**Diğer Notlar**:
 - 
