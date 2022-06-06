@@ -11,12 +11,15 @@ namespace DeepOcean.Movements
         private float _jumpSpeed = 5f;
         
         Vector2 _velocity;
+        Animator _anim;
 
         CharacterController _characterController;
 
         void Awake()
         {
             _characterController = GetComponent<CharacterController>();
+            _anim = GetComponent<Animator>();
+
         }
 
         void Update()
@@ -30,13 +33,15 @@ namespace DeepOcean.Movements
 
         public void Jump()
         {
-            for(int i = 0; i < 5; i++) { 
+            
+            for (int i = 0; i < 20; i++) { 
             if (_characterController.isGrounded) _velocity.y = _jumpSpeed;
 
             _velocity.y += _gravity * Time.deltaTime;
 
             _characterController.Move(_velocity * Time.deltaTime);
             }
+            _anim.SetTrigger("isJump");
         }
 
     }

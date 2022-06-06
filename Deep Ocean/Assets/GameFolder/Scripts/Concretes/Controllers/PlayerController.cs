@@ -18,9 +18,12 @@ namespace DeepOcean.Controllers
 
         float _direction;
 
+        public Animator anim;
+
         void Awake()
         {
             _input = GetComponent<IInputReader>();
+            anim = GetComponent<Animator>();
             _mover = new MoveWithCharacterController(this);
 
 
@@ -43,11 +46,17 @@ namespace DeepOcean.Controllers
 
             if (_direction == -1)
             {
-                _spriteRenderer.flipX = false;
+                _spriteRenderer.flipX = true;
+                anim.SetBool("isWalk", true);
             }
             else if (_direction == 1)
             {
-                _spriteRenderer.flipX = true;
+                _spriteRenderer.flipX = false;
+                anim.SetBool("isWalk", true);
+            }
+            else
+            {
+                anim.SetBool("isWalk", false);
             }
         }
     }
