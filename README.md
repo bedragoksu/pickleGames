@@ -28,7 +28,7 @@
 - **Daily Scrum:** Daily Scrum toplantılarının zamansal sebeplerden ötürü WhatsApp üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg veya word olarak Readme'de tarafımızdan paylaşılmaktadır:  <br/>
  [Sprint 1 Daily Scrum Chats](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint1/DailyScrumSprint1.DOCX) <br/>
  [Sprint 2 Daily Scrum Chats](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint2/DailyScrumSprint2.DOCX) <br/>
-
+ [Sprint 3 Daily Scrum Chats](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint3/DailyScrumSprint3.DOCX) <br/>
 
 ### Backlog Linki
 [Trello Backlog](https://trello.com/b/8pDb5IU6/deep-ocean)
@@ -91,7 +91,7 @@
 - **Sprint için tamamlanması tahmin edilen puan:** 50 puan
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 120 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde üçüncü sprint'in 50 puan olması gerektiğine karar verildi.
 - **Backlog düzeni:** Yapılması planlanan görevler belirlenmiş ve tahmini puanlar toplam 50 puan olmak üzere görevlere dağıtılmıştır.
-![backlog screenshot]()
+![backlog screenshot](https://github.com/bedragoksu/pickleGames/blob/main/Project%20Management/Sprint3/TrelloEkranFoto%C4%9Fraf%C4%B1.PNG)
 
 - **Ürün Durumu:**
 - Daha fazlası için Sprint3 dosyasını inceleyebilirsiniz.
